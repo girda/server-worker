@@ -1,0 +1,30 @@
+[
+  {
+    "localityCode": "KR1",
+    "localityName": "Киев"
+  },
+  {
+    "localityCode": "CHR1",
+    "localityName": "Харьков"
+  },
+  {
+    "localityCode": "PR1",
+    "localityName": "Полтава"
+  },
+  {
+    "localityCode": "OR1",
+    "localityName": "Одесса"
+  },
+  {
+    "localityCode": "MR1",
+    "localityName": "Мариуполь"
+  },
+  {
+    "localityCode": "DR1",
+    "localityName": "Днепропетровск"
+  },
+  {
+    "localityCode": "ORI2",
+    "localityName": "Измаил"
+  }
+]
